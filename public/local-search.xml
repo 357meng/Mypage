@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>故事</title>
+    <link href="/2022/10/24/zizhi01/"/>
+    <url>/2022/10/24/zizhi01/</url>
+    
+    <content type="html"><![CDATA[<p><strong>他们总觉得我傻，说我什么都不记<br>其实我只是记得少<br>比如樱花慢慢飘落<br>比如细雪覆盖山头<br>风沙的故事也总要有人记得</strong></p><p><strong>当风沙的故事渐渐被人遗忘<br>阳光不再奔跑<br>我又回到这里<br>樱花慢慢飘落，白雪覆盖山头<br>它们说<br>好久不见</strong></p><span id="more"></span><style>  /* 设置整个页面的字体 */  html, body, .markdown-body {    font-family: KaiTi,"Microsoft YaHei",Georgia, sans, serif;    font-size: 20px;  }  /* 只设置 markdown 字体 */  .markdown-body {    font-family: KaiTi,"Microsoft YaHei",Georgia, sans, serif;    font-size: 25px;  }</style>]]></content>
+    
+    
+    <categories>
+      
+      <category>随手写写</category>
+      
+      <category>诗歌</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>诗歌</tag>
+      
+      <tag>随便瞎写</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Nginx服务器搭建与个人博客部署</title>
     <link href="/2022/10/19/shumeipai01/"/>
     <url>/2022/10/19/shumeipai01/</url>
@@ -37,7 +66,7 @@
     <link href="/2022/10/13/fenxiang01/"/>
     <url>/2022/10/13/fenxiang01/</url>
     
-    <content type="html"><![CDATA[<p><strong>如果大地的每个角落都充满了光明<br>谁还需要星星，谁还会<br>在夜里凝望<br>寻找遥远的安慰<br>谁不愿意<br>每天<br>都是一首诗<br>每个字都是一颗星<br>像蜜蜂在心头颤动<br>谁不愿意，有一个柔软的晚上<br>柔软得像一片湖<br>萤火虫和星星在睡莲丛中游动<br>谁不喜欢春天<br>鸟落满枝头<br>像星星落满天空<br>闪闪烁烁的声音从远方飘来<br>一团团白丁香朦朦胧胧</strong></p><p><strong>如果大地每个角落都充满了光明<br>谁还需要星星，谁还会<br>在寒冷中寂寞地燃烧<br>寻求星星点点的希望<br>谁愿意<br>一年又一年<br>总写苦难的诗<br>每一首是一群颤抖的星星<br>像冰雪覆盖心头<br>谁愿意，看着夜晚冻僵<br>僵硬得像一片土地<br>风吹落一颗又一颗瘦小的星<br>谁不喜欢飘动的旗子<br>喜欢火<br>涌出金黄的星星<br>在天上的星星疲倦的时候–升起<br>去照亮太阳照不到的地方。</strong></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>如果大地的每个角落都充满了光明<br>谁还需要星星，谁还会<br>在夜里凝望<br>寻找遥远的安慰<br>谁不愿意<br>每天<br>都是一首诗<br>每个字都是一颗星<br>像蜜蜂在心头颤动<br>谁不愿意，有一个柔软的晚上<br>柔软得像一片湖<br>萤火虫和星星在睡莲丛中游动<br>谁不喜欢春天<br>鸟落满枝头<br>像星星落满天空<br>闪闪烁烁的声音从远方飘来<br>一团团白丁香朦朦胧胧</strong></p><p><strong>如果大地每个角落都充满了光明<br>谁还需要星星，谁还会<br>在寒冷中寂寞地燃烧<br>寻求星星点点的希望<br>谁愿意<br>一年又一年<br>总写苦难的诗<br>每一首是一群颤抖的星星<br>像冰雪覆盖心头<br>谁愿意，看着夜晚冻僵<br>僵硬得像一片土地<br>风吹落一颗又一颗瘦小的星<br>谁不喜欢飘动的旗子<br>喜欢火<br>涌出金黄的星星<br>在天上的星星疲倦的时候–升起<br>去照亮太阳照不到的地方。</strong></p><style>  /* 设置整个页面的字体 */  html, body, .markdown-body {    font-family: KaiTi,"Microsoft YaHei",Georgia, sans, serif;    font-size: 20px;  }  /* 只设置 markdown 字体 */  .markdown-body {    font-family: KaiTi,"Microsoft YaHei",Georgia, sans, serif;    font-size: 25px;  }</style>]]></content>
     
     
     <categories>
@@ -66,7 +95,7 @@
     <link href="/2022/10/13/fenxiang00/"/>
     <url>/2022/10/13/fenxiang00/</url>
     
-    <content type="html"><![CDATA[<p><strong>春江潮水连海平，海上明月共潮生。<br>滟滟随波千万里，何处春江无月明！<br>江流宛转绕芳甸，月照花林皆似霰。<br>空里流霜不觉飞，汀上白沙看不见。<br>江天一色无纤尘，皎皎空中孤月轮。<br>江畔何人初见月？江月何年初照人？<br>人生代代无穷已，江月年年望相似。<br>不知江月待何人，但见长江送流水。<br>白云一片去悠悠，青枫浦上不胜愁。<br>谁家今夜扁舟子？何处相思明月楼？<br>可怜楼上月徘徊，应照离人妆镜台。<br>玉户帘中卷不去，捣衣砧上拂还来。<br>此时相望不相闻，愿逐月华流照君。<br>鸿雁长飞光不度，鱼龙潜跃水成文。<br>昨夜闲潭梦落花，可怜春半不还家。<br>江水流春去欲尽，江潭落月复西斜。<br>斜月沉沉藏海雾，碣石潇湘无限路。<br>不知乘月几人归，落月摇情满江树。</strong></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>春江潮水连海平，海上明月共潮生。<br>滟滟随波千万里，何处春江无月明！<br>江流宛转绕芳甸，月照花林皆似霰。<br>空里流霜不觉飞，汀上白沙看不见。<br>江天一色无纤尘，皎皎空中孤月轮。<br>江畔何人初见月？江月何年初照人？<br>人生代代无穷已，江月年年望相似。<br>不知江月待何人，但见长江送流水。<br>白云一片去悠悠，青枫浦上不胜愁。<br>谁家今夜扁舟子？何处相思明月楼？<br>可怜楼上月徘徊，应照离人妆镜台。<br>玉户帘中卷不去，捣衣砧上拂还来。<br>此时相望不相闻，愿逐月华流照君。<br>鸿雁长飞光不度，鱼龙潜跃水成文。<br>昨夜闲潭梦落花，可怜春半不还家。<br>江水流春去欲尽，江潭落月复西斜。<br>斜月沉沉藏海雾，碣石潇湘无限路。<br>不知乘月几人归，落月摇情满江树。</strong></p><style>  /* 设置整个页面的字体 */  html, body, .markdown-body {    font-family: KaiTi,"Microsoft YaHei",Georgia, sans, serif;    font-size: 20px;  }  /* 只设置 markdown 字体 */  .markdown-body {    font-family: KaiTi,"Microsoft YaHei",Georgia, sans, serif;    font-size: 25px;  }</style>]]></content>
     
     
     <categories>
@@ -432,7 +461,7 @@
     <link href="/2021/07/26/zizhi00/"/>
     <url>/2021/07/26/zizhi00/</url>
     
-    <content type="html"><![CDATA[<p><strong>有时候<br>时光犹如昙花<br>就像一些蝉</strong></p><p><strong>有时候<br>风沙掩埋钟塔<br>就像一些蝉</strong></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>有时候<br>时光犹如昙花<br>就像一些蝉</strong></p><p><strong>有时候<br>风沙掩埋钟塔<br>就像一些蝉</strong></p><span id="more"></span><style>  /* 设置整个页面的字体 */  html, body, .markdown-body {    font-family: KaiTi,"Microsoft YaHei",Georgia, sans, serif;    font-size: 20px;  }  /* 只设置 markdown 字体 */  .markdown-body {    font-family: KaiTi,"Microsoft YaHei",Georgia, sans, serif;    font-size: 25px;  }</style>]]></content>
     
     
     <categories>
